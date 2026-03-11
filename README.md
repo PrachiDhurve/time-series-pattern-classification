@@ -1,6 +1,6 @@
 # Time Series Pattern Classification
 
-This project is an interview assignment for binary classification on temporal data.
+This project is for binary classification on temporal data.
 
 ## Objective
 The goal is to detect repeating patterns present in class 1 sequences from time-series samples of shape `(batch, 10, 2)`.
